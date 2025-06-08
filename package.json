@@ -1,0 +1,26 @@
+{
+  "name": "magic-home-led",
+  "version": "1.0.0",
+  "description": "Magic Home / Magic Hue LED strip controller",
+  "keywords": [
+    "magichome",
+    "magichue",
+    "magic-home",
+    "magic-hue",
+    "led",
+    "ledstrip",
+    "led-strip"
+  ],
+  "homepage": "https://github.com/ImSpeddy/MagicHomeLEDStripController#readme",
+  "bugs": {
+    "url": "https://github.com/ImSpeddy/MagicHomeLEDStripController/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImSpeddy/MagicHomeLEDStripController.git"
+  },
+  "license": "MIT",
+  "author": "Ethan Mahlstedt <ethan.mahlstedt@hotmail.com>",
+  "type": "commonjs",
+  "main": "index.js"
+}
